@@ -15,7 +15,7 @@ export default function Footer() {
               <span className="text-xl font-black text-white">Event<span className="text-[#c4922a]">Hive</span></span>
             </div>
             <p className="text-sm text-[#a09070] leading-relaxed mb-4">
-              Your one-stop marketplace for event decorations — buy, rent, or book a complete setup.
+              Your one-stop marketplace for event decorations — buy, rent, or book complete setup.
             </p>
           </div>
 
